@@ -1,6 +1,13 @@
-### Hi there 👋 I'm ABIDA Wassim
+### Hi there 👋
+I'm ABIDA Wassim
 
-I'm passionate about data engineering, leveraging technology to derive meaningful insights from data.
+I'm a student pursuing a double diploma program that spans SUPCOM and CentraleSupelec at University Paris-Saclay.I'm passionate about
+data engineering, leveraging technology to derive meaningful insights from data.
+
+You can check out my online profiles or contact me:
+* [LinkedIn](https://www.linkedin.com/in/wassim-abida-093910222/)
+* [Email](wassim.abida@student-cs.fr)
+
 <!--
 **wasimabida/wasimabida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
