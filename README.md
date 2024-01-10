@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm ABIDA Wassim
 
+I'm passionate about data engineering, leveraging technology to derive meaningful insights from data.
 <!--
 **wasimabida/wasimabida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
